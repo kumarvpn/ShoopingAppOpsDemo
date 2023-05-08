@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\source\\repos\\ShopingAppOps\\ShopingAppOps\\ShopingAppOps.csproj": {}
+    "E:\\CTS Cloud Training\\ShoopingAppOpsDemo\\ShopingAppOps\\ShopingAppOps.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\source\\repos\\ShopingAppOps\\ShopingAppOps\\ShopingAppOps.csproj": {
+    "E:\\CTS Cloud Training\\ShoopingAppOpsDemo\\ShopingAppOps\\ShopingAppOps.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\ShopingAppOps\\ShopingAppOps\\ShopingAppOps.csproj",
+        "projectUniqueName": "E:\\CTS Cloud Training\\ShoopingAppOpsDemo\\ShopingAppOps\\ShopingAppOps.csproj",
         "projectName": "ShopingAppOps",
-        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\ShopingAppOps\\ShopingAppOps\\ShopingAppOps.csproj",
+        "projectPath": "E:\\CTS Cloud Training\\ShoopingAppOpsDemo\\ShopingAppOps\\ShopingAppOps.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\ShopingAppOps\\ShopingAppOps\\obj\\",
+        "outputPath": "E:\\CTS Cloud Training\\ShoopingAppOpsDemo\\ShopingAppOps\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
